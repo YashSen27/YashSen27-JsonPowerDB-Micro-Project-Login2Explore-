@@ -1,6 +1,6 @@
 # JsonPowerDB
 
-## This mini-project performs CRUD operations using JsonPowerDB.
+## This mini-project performs CRUD operations using JsonPowerDB for Login2Explore.
 
 ###### JsonPowerDB is a high performance, creative and disruptive multi-mode DBMS.
 
